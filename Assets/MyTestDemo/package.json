@@ -1,0 +1,10 @@
+{
+"name": "com.7xtk.mytestdemo",
+"displayName": "mytestdemo",
+"description": "my test demo for dev package!",
+"version": "1.0.0",
+"unity": "2020.1",
+"license": "MIT",
+"dependencies": {
+ }
+}

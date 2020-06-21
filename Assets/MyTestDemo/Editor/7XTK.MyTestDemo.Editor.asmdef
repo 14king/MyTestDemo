@@ -1,0 +1,17 @@
+{
+    "name": "package",
+    "references": [
+        "GUID:cff70fc03b5ccbd458b6c343fc34869e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
